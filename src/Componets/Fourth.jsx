@@ -60,7 +60,7 @@ const Fourth = () => {
           <img
             className="rounded-lg w-full h-full"
             src="/assets/ben3-DAeljmNb.png"
-            alt="Picture 3"
+            alt="Picture3"
             loading="lazy"
           />
         </div>
